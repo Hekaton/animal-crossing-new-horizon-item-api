@@ -1,15 +1,18 @@
 [
     {
         "name": "acanthostega",
-        "price": 2000
+        "price": 2000,
+        "id": "c37368ac-6ff1-4133-a64e-bfd9689e5695"
     },
     {
         "name": "amber",
-        "price": 1200
+        "price": 1200,
+        "id": "b4ef4d83-42e8-45d4-8c77-60c2f5145e8e"
     },
     {
         "name": "ammonite",
-        "price": 1100
+        "price": 1100,
+        "id": "c20abe08-4f0f-4d38-9e89-d3dff2698a4e"
     },
     {
         "name": "ankylosaurus",
@@ -26,15 +29,18 @@
                 "name": "tail",
                 "price": 2500
             }
-        ]
+        ],
+        "id": "6de86b00-a659-4b13-b80f-eea42d3605b2"
     },
     {
         "name": "anomalocaris",
-        "price": 2000
+        "price": 2000,
+        "id": "91382511-d98f-41fc-ae7f-262659e4004f"
     },
     {
         "name": "archaeopteryx",
-        "price": 1300
+        "price": 1300,
+        "id": "52406296-febf-4e98-9940-064eda4b7213"
     },
     {
         "name": "archelon",
@@ -47,11 +53,13 @@
                 "name": "tail",
                 "price": 3500
             }
-        ]
+        ],
+        "id": "31d23f8e-96da-4376-8eb1-7431c61a79db"
     },
     {
         "name": "australopithecus",
-        "price": 1100
+        "price": 1100,
+        "id": "8c625cb8-a4f5-43ae-bb54-adfab3111079"
     },
     {
         "name": "brachiosaurus",
@@ -72,11 +80,13 @@
                 "name": "tail",
                 "price": 5500
             }
-        ]
+        ],
+        "id": "1bec4e98-7ef2-4030-9bc8-31b5464f31c8"
     },
     {
         "name": "coprolite",
-        "price": 1100
+        "price": 1100,
+        "id": "f49aa06b-8b85-4959-850d-bc6fd23db8f2"
     },
     {
         "name": "deinonychus",
@@ -89,7 +99,8 @@
                 "name": "tail",
                 "price": 2500
             }
-        ]
+        ],
+        "id": "d9ecb387-4775-402c-8678-cdebd2621c3f"
     },
     {
         "name": "dimetrodon",
@@ -102,11 +113,13 @@
                 "name": "torso",
                 "price": 5000
             }
-        ]
+        ],
+        "id": "930274c3-33c2-42f4-a716-d793cfe23dd4"
     },
     {
         "name": "dinosaur track",
-        "price": 1000
+        "price": 1000,
+        "id": "ba43ec9e-32d5-49f5-b5ea-1082685d5fd4"
     },
     {
         "name": "diplodocus",
@@ -135,15 +148,18 @@
                 "name": "tail tip",
                 "price": 4000
             }
-        ]
+        ],
+        "id": "3c2a9e84-2a17-4608-a070-4121f41488df"
     },
     {
         "name": "dunkleosteus",
-        "price": 3500
+        "price": 3500,
+        "id": "b6b2986f-9d22-4312-a281-02209596d2cd"
     },
     {
         "name": "eusthenopteron",
-        "price": 2000
+        "price": 2000,
+        "id": "72252a7f-628e-44ab-9c16-9b2d7982811f"
     },
     {
         "name": "iguanodon",
@@ -160,11 +176,13 @@
                 "name": "tail",
                 "price": 3000
             }
-        ]
+        ],
+        "id": "e206fd36-ce57-4a45-a8e8-eaebfdf9188e"
     },
     {
         "name": "juramaia",
-        "price": 1000
+        "price": 1000,
+        "id": "b7e3db9a-6079-452b-9d7b-8ad7aef8ffae"
     },
     {
         "name": "mammoth",
@@ -177,7 +195,8 @@
                 "name": "torso",
                 "price": 2500
             }
-        ]
+        ],
+        "id": "b9a4a129-b212-4dbe-a422-967738ae2f96"
     },
     {
         "name": "megacerops",
@@ -194,7 +213,8 @@
                 "name": "tail",
                 "price": 3000
             }
-        ]
+        ],
+        "id": "1eb514c8-2d27-4e57-98db-488594cfd86b"
     },
     {
         "name": "megaloceros",
@@ -207,11 +227,13 @@
                 "name": "right",
                 "price": 5500
             }
-        ]
+        ],
+        "id": "172b2f56-7c0c-4a27-983d-d5b372097b46"
     },
     {
         "name": "myllokunmingia",
-        "price": 1500
+        "price": 1500,
+        "id": "72817889-59f3-4358-afd2-14143a474b90"
     },
     {
         "name": "ophthalmosaurus",
@@ -224,7 +246,8 @@
                 "name": "torso",
                 "price": 2000
             }
-        ]
+        ],
+        "id": "771cf816-886f-4bda-a2ae-acbd3cd8205c"
     },
     {
         "name": "pachycephalosaurus",
@@ -237,7 +260,8 @@
                 "name": "tail",
                 "price": 3500
             }
-        ]
+        ],
+        "id": "e0bf71cf-ac41-4436-90a5-261baf352547"
     },
     {
         "name": "parasaurolophus",
@@ -254,7 +278,8 @@
                 "name": "tail",
                 "price": 2500
             }
-        ]
+        ],
+        "id": "7a1b4ba9-8d1e-4780-8c05-6f605315c7b6"
     },
     {
         "name": "plesiosaur",
@@ -271,7 +296,8 @@
                 "name": "tail",
                 "price": 4500
             }
-        ]
+        ],
+        "id": "4ac39665-2803-40ce-b54c-a7c39f5442a0"
     },
     {
         "name": "pteranodon",
@@ -288,7 +314,8 @@
                 "name": "right wing",
                 "price": 4500
             }
-        ]
+        ],
+        "id": "3786425d-f769-4afb-81ab-6abb8021e132"
     },
     {
         "name": "quetzalcoatlus",
@@ -305,7 +332,8 @@
                 "name": "right wing",
                 "price": 5000
             }
-        ]
+        ],
+        "id": "88e91f08-40d6-485a-b812-d83c6b81e069"
     },
     {
         "name": "sabertooth",
@@ -318,11 +346,13 @@
                 "name": "tail",
                 "price": 2000
             }
-        ]
+        ],
+        "id": "358b96ce-558a-4357-8fcc-e120662c567d"
     },
     {
         "name": "shark tooth",
-        "price": 1000
+        "price": 1000,
+        "id": "d845e71f-6059-420f-a67e-b707bb0559af"
     },
     {
         "name": "spinosaurus",
@@ -339,7 +369,8 @@
                 "name": "tail",
                 "price": 4000
             }
-        ]
+        ],
+        "id": "cb99be51-497c-4833-a273-4bdcd8bc5a0f"
     },
     {
         "name": "stegosaurus",
@@ -356,7 +387,8 @@
                 "name": "tail",
                 "price": 4000
             }
-        ]
+        ],
+        "id": "392ee8c1-4123-4686-8f0f-93eb14829c8c"
     },
     {
         "name": "triceratops",
@@ -373,11 +405,13 @@
                 "name": "tail",
                 "price": 4500
             }
-        ]
+        ],
+        "id": "8f2066dc-37c5-4812-aeeb-3d4572f7462e"
     },
     {
         "name": "trilobite",
-        "price": 1300
+        "price": 1300,
+        "id": "ae059cac-d5bf-41d1-b0fe-e8a36f2a7bd5"
     },
     {
         "name": "tyrannosaurus rex",
@@ -394,6 +428,7 @@
                 "name": "tail",
                 "price": 5000
             }
-        ]
+        ],
+        "id": "3840694b-634f-4c44-bf42-c51021e36b01"
     }
 ]
